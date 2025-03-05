@@ -1,0 +1,13 @@
+/* main.css */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f5f0e6;
+  margin: 0;
+}
+
+canvas {
+  background-color: transparent;
+}
